@@ -18,7 +18,7 @@ Các bài được viết **lần lượt**, mỗi lần một bài, để đọ
 | # | Chặng | File | Paper | Trạng thái |
 |---|---|---|---|---|
 | 00 | 0 · Bản đồ | [`00-ban-do-va-cach-doc.md`](00-ban-do-va-cach-doc.md) | [V34], [V35] | ✅ Sẵn sàng |
-| 01 | 1 · Vì sao cần AI-native | `01-se-3-0-va-agentic-se.md` | [V36], [V37] | ⏳ Sắp tới |
+| 01 | 1 · Vì sao cần AI-native | [`01-se-3-0-va-agentic-se.md`](01-se-3-0-va-agentic-se.md) | [V36], [V37] | ✅ Sẵn sàng |
 | 02 | 1 · Vì sao cần AI-native | `02-ai-khong-chi-de-code-nhanh.md` | [V47], [V38] | ⏳ Sắp tới |
 | 03 | 2 · Bài toán gốc issue → patch | `03-swe-bench.md` | [V28] | ⏳ Sắp tới |
 | 04 | 2 · Bài toán gốc issue → patch | `04-swe-agent-va-openhands.md` | [V01], [V04] | ⏳ Sắp tới |
